@@ -1,2 +1,2 @@
 # google-release-please
-test
+fix: pathc
